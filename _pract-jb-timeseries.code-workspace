@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../books_proj_ML/python_ml_bundle_7books/time_series_forecasting_with_python"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "notebook.formatOnSave.enabled": true,
+    "files.autoSave": "afterDelay"
+  }
+}
